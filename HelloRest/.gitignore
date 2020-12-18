@@ -2,4 +2,5 @@
 /.classpath
 /.project
 /bin/
+/pom.xml
 /target/
